@@ -1,6 +1,9 @@
 # flutter_todo_app
 
-A new Flutter project.
+This project using Flutter version: 1.0.0+1 so you can clone then open it with AndroidStudio or VisualCode
+Be sure that you added plugin relate to Flutter Framework
+- To run this project: go to main.dart file and then click run button
+- To run the test: right click on folder named: "test" -> right click -> run all test or you can go to each class in this folder then run each test case by click Run 
 
 ## Getting Started
 
